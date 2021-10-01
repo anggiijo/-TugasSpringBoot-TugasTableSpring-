@@ -1,0 +1,7 @@
+com\tugas\tugas2\models\Todo.class
+com\tugas\tugas2\controllers\MainController.class
+com\tugas\tugas2\Tugas2Application.class
+com\tugas\tugas2\interfaces\TodoInterfaces$TodoInterface.class
+com\tugas\tugas2\repositories\TodoRepository.class
+com\tugas\tugas2\services\TodoServices.class
+com\tugas\tugas2\interfaces\TodoInterfaces.class
